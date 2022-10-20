@@ -8,5 +8,6 @@
 * [Tweak越狱插件开发](tweak_development/README.md)
   * [Theos/Logos](tweak_development/theos_logos.md)
   * [iOSOpenDev](tweak_development/iosopendev.md)
+  * [MonkeyDev](tweak_development/monkeydev.md)
 * [附录](appendix/README.md)
   * [参考资料](appendix/reference.md)

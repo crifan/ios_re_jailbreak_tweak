@@ -23,8 +23,6 @@ TODO：
 * 【已解决】Mac中用theos开发最简单的插件的demo：加锁屏左上角加红色框
 * 【已解决】用XCode开发一个Objective-C的iOS的带GUI的app供配合测试theos修改系统参数是否生效
 * 【已解决】用Objective-C的iOS的app作为theos开发的tweak插件去hook修改iPhone6的系统参数
-* 
-* 【整理】iOS越狱插件开发工具：MonkeyDev
 
 * [iOS Tweak进阶 – 六阿哥博客 (6ag.cn)](https://blog.6ag.cn/3414.html)
   * 好好学习该贴，有很多有价值的内容值得学习

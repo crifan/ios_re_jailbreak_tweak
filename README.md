@@ -1,7 +1,7 @@
 # iOS逆向开发：越狱插件开发
 
-* 最新版本：`v0.1`
-* 更新时间：`20220616`
+* 最新版本：`v0.3`
+* 更新时间：`20221020`
 
 ## 简介
 
@@ -13,7 +13,7 @@
 
 ### HonKit源码
 
-* [crifan/ios_re_jailbreak_tweak: iOS逆向开发：越狱插件开发](https://gitee.com/crifan/ios_re_jailbreak_tweak)
+* [crifan/ios_re_jailbreak_tweak: iOS逆向开发：越狱插件开发](https://github.com/crifan/ios_re_jailbreak_tweak)
 
 #### 如何使用此HonKit源码去生成发布为电子书
 
