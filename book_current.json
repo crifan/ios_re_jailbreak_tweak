@@ -1,0 +1,19 @@
+{
+  "title": "iOS逆向开发：越狱插件开发",
+  "description": "介绍iOS逆向开发领域中，关于越狱插件tweak开发的相关知识。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ios_re_jailbreak_tweak"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/ios_re_jailbreak_tweak/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/ios_re_jailbreak_tweak/pdf/ios_re_jailbreak_tweak.pdf"
+    }
+  }
+}
