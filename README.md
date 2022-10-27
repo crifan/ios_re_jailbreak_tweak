@@ -1,11 +1,11 @@
 # iOS逆向开发：越狱插件开发
 
-* 最新版本：`v0.6`
+* 最新版本：`v0.7`
 * 更新时间：`20221027`
 
 ## 简介
 
-介绍iOS逆向开发领域中，关于越狱插件tweak开发的相关知识。先是概览，然后介绍基础知识：什么是tweak插件、tweak插件的开发手段；以及具体如何用Theos/Logos、iOSOpenDev、MonkeyDev去开发tweak插件。
+介绍iOS逆向开发领域中，关于越狱插件tweak开发的相关知识。先是概览，然后介绍基础知识：什么是tweak插件、tweak插件的开发手段；以及具体如何用Theos/Logos、iOSOpenDev、MonkeyDev去开发tweak插件；以及整理相关心得。
 
 ## 源码+浏览+下载
 

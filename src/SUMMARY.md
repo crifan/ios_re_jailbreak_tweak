@@ -9,5 +9,6 @@
   * [Theos/Logos](tweak_dev/theos_logos.md)
   * [iOSOpenDev](tweak_dev/iosopendev.md)
   * [MonkeyDev](tweak_dev/monkeydev.md)
+* [插件开发心得](tweak_summary/README.md)
 * [附录](appendix/README.md)
   * [参考资料](appendix/reference.md)
