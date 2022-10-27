@@ -1,11 +1,11 @@
 # iOS逆向开发：越狱插件开发
 
-* 最新版本：`v0.3`
-* 更新时间：`20221020`
+* 最新版本：`v0.6`
+* 更新时间：`20221027`
 
 ## 简介
 
-介绍iOS逆向开发领域中，关于越狱插件tweak开发的相关知识。
+介绍iOS逆向开发领域中，关于越狱插件tweak开发的相关知识。先是概览，然后介绍基础知识：什么是tweak插件、tweak插件的开发手段；以及具体如何用Theos/Logos、iOSOpenDev、MonkeyDev去开发tweak插件。
 
 ## 源码+浏览+下载
 
@@ -30,9 +30,11 @@
 * [iOS逆向开发：越狱插件开发 ePub](https://book.crifan.org/books/ios_re_jailbreak_tweak/epub/ios_re_jailbreak_tweak.epub)
 * [iOS逆向开发：越狱插件开发 Mobi](https://book.crifan.org/books/ios_re_jailbreak_tweak/mobi/ios_re_jailbreak_tweak.mobi)
 
-## 版权说明
+## 版权和用途说明
 
-此电子书教程的全部内容，如无特别说明，均为本人原创和整理。其中部分内容参考自网络，均已备注了出处。如有发现侵犯您版权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+此电子书教程的全部内容，如无特别说明，均为本人原创。其中部分内容参考自网络，均已备注了出处。如有版权，请通过邮箱联系我 `admin 艾特 crifan.com`，我会尽快删除。谢谢合作。
+
+各种技术类教程，仅作为学习和研究使用。请勿用于任何非法用途。如有非法用途，均与本人无关。
 
 ## 鸣谢
 

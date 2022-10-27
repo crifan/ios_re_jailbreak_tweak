@@ -2,7 +2,7 @@
 
 关于tweak的详细介绍：
 
-* tweak
+* `tweak`
   * 是什么：a dynamic library
     * all kinds of crack patches
   * 叫法：tweak=插件=extension=扩展
