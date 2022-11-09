@@ -1,6 +1,6 @@
 {
   "latestVersion": "v0.8",
-  "lastUpdate": "20221108",
+  "lastUpdate": "20221109",
   "gitRepoName": "ios_re_jailbreak_tweak",
   "bookName": "iOS逆向开发：越狱插件开发",
   "bookDescription": "介绍iOS逆向开发领域中，如何开发越狱插件tweak。先是概览，然后介绍基础知识：什么是tweak插件、tweak插件的开发手段；以及具体如何用Theos/Logos、iOSOpenDev、MonkeyDev去开发tweak插件；Theos中包括搭建Theos开发环境；以及整理相关心得。"
