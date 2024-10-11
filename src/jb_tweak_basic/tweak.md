@@ -1,11 +1,5 @@
 # tweak插件
 
-TODO：
-
-* 【已解决】iOS中Cydia Substrate
-
----
-
 关于tweak的详细介绍：
 
 * `tweak`

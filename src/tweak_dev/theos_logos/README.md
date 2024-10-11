@@ -30,6 +30,9 @@ TODO：
 
 ---
 
+* `Theos/Logos`
+  * just brief DSL wrapper around `CydiaSubstrate`, Special DSL that is translated to C. General-purpose solution to start with
+
 ## Theos概述
 
 ### Logos

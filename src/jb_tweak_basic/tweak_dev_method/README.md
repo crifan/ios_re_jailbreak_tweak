@@ -1,14 +1,8 @@
 # tweak开发手段
 
-TODO：
-
-【已解决】iOS中Cydia Substrate
-
----
-
 * 开发越狱插件的主要手段/工具/框架 = dylib-level tweaking/hooking/detouring
   * 底层机制和原理
-    * 基于`CydiaSubstrate`
+    * 基于: [CydiaSubstrate](../../jb_tweak_basic/tweak_dev_method/cydiasubstrate.md)
       * 直接调用
         * Direct calling of substrate functions (MSHookXxx family)
     * `CaptainHook`
@@ -27,7 +21,6 @@ TODO：
     * Method Swizzle
       * 通过Runtime交换方法的实现
   * 相对上层的（集成/封装）工具
-    * `Logos/Theos`
-      * just brief DSL wrapper around `CydiaSubstrate`, Special DSL that is translated to C. General-purpose solution to start with
-    * [iOSOpenDev](https://book.crifan.org/books/ios_re_iosopendev_tweak/website/)
-    * [MonkeyDev](https://book.crifan.org/books/ios_re_monkeydev_debug/website/)
+    * [Theos/Logos](../../tweak_dev/theos_logos/README.md)
+    * [iOSOpenDev](../../tweak_dev/iosopendev.md)
+    * [MonkeyDev](../../tweak_dev/monkeydev.md)

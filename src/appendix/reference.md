@@ -7,7 +7,12 @@
 * 【已解决】Mac中git clone报错：xcrun error invalid active developer path
 * 【已解决】XCode编译iOSOpenDev的Logo Tweak项目报错： Command PhaseScriptExecution failed with a nonzero exit code Failed to locate Logos Processor
 * 【未解决】XCode中编译iOSOpenDev的Logos的Tweak时shell从sh换为zsh
+* 【已解决】iOS中Cydia Substrate
+* 【未解决】iOS越狱检测手段：__RESTRICT
 * 
+* [FAQ | Cydia Substrate](http://www.cydiasubstrate.com/id/1842c585-50e3-4964-8a0d-2f69762767d7/)
+* [Getting Started](http://www.cydiasubstrate.com/id/264d6581-a762-4343-9605-729ef12ff0af/)
+* [Blocking Code Injection on iOS and OS X (pewpewthespells.com)](https://pewpewthespells.com/blog/blocking_code_injection_on_ios_and_os_x.html)
 * [Frida • A world-class dynamic instrumentation framework](https://www.frida.re)
 * [Tutorial Creating tweaks without Logos directly from Xcode : jailbreakdevelopers (reddit.com)](https://www.reddit.com/r/jailbreakdevelopers/comments/8xb9b6/tutorial_creating_tweaks_without_logos_directly/)
 * [steipete/Aspects: Delightful, simple library for aspect oriented programming in Objective-C and Swift.](https://github.com/steipete/Aspects)
