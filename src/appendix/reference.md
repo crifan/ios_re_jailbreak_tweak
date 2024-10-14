@@ -9,7 +9,12 @@
 * 【未解决】XCode中编译iOSOpenDev的Logos的Tweak时shell从sh换为zsh
 * 【已解决】iOS中Cydia Substrate
 * 【未解决】iOS越狱检测手段：__RESTRICT
+* 【整理】iOS越狱后的app：Substitute
+* 【已解决】Substitute相关动态库包含哪些API接口函数
 * 
+* [MidnightTeam/substitute: A free runtime modification library. (github.com)](https://github.com/MidnightTeam/substitute)
+* [Package: Substitute • com.ex.substitute • Bingn... (ios-repo-updates.com)](https://www.ios-repo-updates.com/repository/bingner-elucubratus/package/com.ex.substitute/)
+* [comex/substitute: A free runtime modification library. (github.com)](https://github.com/comex/substitute)
 * [FAQ | Cydia Substrate](http://www.cydiasubstrate.com/id/1842c585-50e3-4964-8a0d-2f69762767d7/)
 * [Getting Started](http://www.cydiasubstrate.com/id/264d6581-a762-4343-9605-729ef12ff0af/)
 * [Blocking Code Injection on iOS and OS X (pewpewthespells.com)](https://pewpewthespells.com/blog/blocking_code_injection_on_ios_and_os_x.html)

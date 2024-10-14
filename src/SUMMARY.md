@@ -6,6 +6,7 @@
   * [tweak插件](jb_tweak_basic/tweak.md)
   * [tweak开发手段](jb_tweak_basic/tweak_dev_method/README.md)
     * [CydiaSubstrate](jb_tweak_basic/tweak_dev_method/cydiasubstrate.md)
+    * [Substitute](jb_tweak_basic/tweak_dev_method/substitute.md)
 * [Tweak越狱插件开发](tweak_dev/README.md)
   * [Theos/Logos](tweak_dev/theos_logos/README.md)
     * [搭建Theos环境](tweak_dev/theos_logos/build_env.md)

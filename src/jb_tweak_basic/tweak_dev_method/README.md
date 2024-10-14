@@ -5,6 +5,7 @@
     * 基于: [CydiaSubstrate](../../jb_tweak_basic/tweak_dev_method/cydiasubstrate.md)
       * 直接调用
         * Direct calling of substrate functions (MSHookXxx family)
+    * [Substitute](../../jb_tweak_basic/tweak_dev_method/substitute.md)
     * `CaptainHook`
       * ure C/ObjC way of doing things, header-only, uses many #define's under the hood
       * Use it if you don't want to lose syntax highlighting and navigation support in IDE project
